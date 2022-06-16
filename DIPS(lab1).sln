@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DIPS(lab1)", "DIPS(lab1)\DIPS(lab1).csproj", "{D908B2C1-DD9B-42AA-9057-67FA78C5A771}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D908B2C1-DD9B-42AA-9057-67FA78C5A771}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D908B2C1-DD9B-42AA-9057-67FA78C5A771}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D908B2C1-DD9B-42AA-9057-67FA78C5A771}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D908B2C1-DD9B-42AA-9057-67FA78C5A771}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {348104D7-A660-4BF7-A2AA-CC0B6890B04F}
+	EndGlobalSection
+EndGlobal
